@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はるか吠える",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2026-03-05T14:06:30.777559Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はるか吠える",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": false,
+      "path": "select/pl_01_はるか吠える_Lucky_Kilimanjaro.txt"
+    }
+  ]
+}
